@@ -21,10 +21,21 @@ const Services = () => {
                     <div className="px-12" data-aos="fade-down" data-aos-delay="600">
                         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
                             
+
+                        <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                                <div className="m-2 text-justify text-sm">
+                                    <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">AI Powered Business Boost</h2>
+                                    <p className="text-md font-medium">
+                                        We provide digital services packed with AI powered knowledge to individuals and organizations to enable them gain visibility in the digital space.
+                                    </p>
+                                </div>
+                            </div>
+                            
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Web Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Modern Web Development</h2>
                                     <p className="text-md font-medium">
                                         We specialize in creating and optimizing high-quality, custom websites for businesses and organizations of all sizes. Building mobile-friendly and easy-to-use websites and applications for clients.
                                     </p>
@@ -43,20 +54,10 @@ const Services = () => {
 
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
-                                    <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">Domain and Hosting Services</h2>
-                                    <p className="text-md font-medium">
-                                        We provide domain registration and web hosting services to individuals and organizations to enable them gain visibility in the digital space.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
-                                <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">General IT Consultations</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Brand Identity Creation</h2>
                                     <p className="text-md font-medium">
-                                        Our IT consultations service provides expert guidance and support for businesses and individuals looking to optimize their technology solutions.
+                                        Our Branding team supports your businesses by showcase your products with a uniquely identified Brand Logo among the competitors.
                                     </p>
                                 </div>
                             </div>                    
@@ -75,7 +76,7 @@ const Services = () => {
                             font-bold">We <span className='font-black'>Build</span></h3>
                             <div>
                                 <p className='my-3 text-xl text-gray-600 font-semibold'>
-                                    With over 10 years experience in software analysis and design and a deep understanding of the latest IT trends and solutions, we provide customized recommendations and strategies to help you improve your operations, reduce costs, and increase efficiency.
+                                   We - An Inhouse Team with Skilled Digital Architects - Enthusiastic Developers - Innovative Designers develop digital products & strategies to enhance your business operations, minimize expenses & boost efficiency.
                                 </p>
                             </div>
                         </div>
@@ -85,7 +86,7 @@ const Services = () => {
                             </div>
                             <h3 className="text-3xl  text-blue-900 font-bold">We <span className='font-black'>Collaborate</span></h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can collaborate with your existing tech team to scale existing software applications or design customized software applications that suits your everyday need and simplifies various processes.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can collaborate with your stakeholders, business analysts to understand your future needs to design customized software applications that suits your everyday need and simplifies various processes.</p>
                             </div>
                         </div>
                     </div>

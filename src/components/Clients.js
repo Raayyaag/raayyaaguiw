@@ -1,7 +1,7 @@
 import React from 'react';
-import kws from '../images/clients/kws.png';
-import geps from '../images/clients/geps.png';
-import protergia from '../images/clients/protergia.png';
+import kws from '../images/clients/img8.jpg';
+import geps from '../images/clients/img1.jpg';
+import protergia from '../images/clients/img6.jpg';
 
 const clientImage = {
     height: '10rem',
