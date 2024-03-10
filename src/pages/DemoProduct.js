@@ -275,7 +275,7 @@ const DemoProduct = (props) => {
                                 
                                     <div className='mt-5'>
                                         <h2 className="text-2xl">Send an E-mail</h2>
-                                        <p className="text-white-800">contactus@raayyaag.com</p>
+                                        <p className="text-white-800">contact@raayyaag.com</p>
                                     </div>
                             
                                 </div>
